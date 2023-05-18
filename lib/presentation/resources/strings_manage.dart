@@ -16,4 +16,10 @@ class AppStrings {
   static const String name = 'Name';
   static const String email = 'Email';
   static const String password = 'Password';
+
+  // Routes
+  static const String noRouteFound = 'No route found';
+  static const String loginRoute = '/';
+  static const String registerRoute = '/userRegister';
+  static const String forgotPasswordRoute = '/forgotPassword';
 }
